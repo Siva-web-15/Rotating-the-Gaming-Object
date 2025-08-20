@@ -37,6 +37,10 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```
+Name: Sivabalan M
+Reg no:212224230269
+```
 
 ~~~cs
 using System.Collections;
